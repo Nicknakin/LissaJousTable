@@ -6,7 +6,7 @@ let rad;
 let points;
 
 function setup(){
-    createCanvas(floor(window.innerWidth*0.95), floor(window.innerHeight*0.95));
+    createCanvas(floor(window.innerWidth), floor(window.innerHeight));
     background(0);  
     stroke(255);
 
